@@ -50,7 +50,7 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 <br>
 
 ### Infinity Norm of a Matrix
-<img width="591" height="234" alt="Screenshot 2025-10-17 221939" src="https://github.com/user-attachments/assets/b226cdb1-db98-46b9-a418-49160083c0cb" />
+<img width="591" height="234" alt="Screenshot 2025-10-17 221939" src="https://github.com/user-attachments/assets/b226cdb1-db98-46b9-a418-49160083c0cb" /> 
 
 <br>
 <br>
