@@ -16,20 +16,20 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 # Register No:25014510
 # Developed By:sakthivel
 # 1-Norm of a Matrix
-<img width="420" height="258" alt="Screenshot 2025-10-17 221900" src="https://github.com/user-attachments/assets/c31c1acb-e4d4-479b-a369-87bf229c9927" />
+
 
 
 
 
 
 # 2-Norm of a Matrix
-<img width="427" height="307" alt="Screenshot 2025-10-17 221917" src="https://github.com/user-attachments/assets/72a2b59f-d102-43c6-bd1d-f5149dfc80cd" />
+
 
 
 
 
 # Infinity Norm of a Matrix
-<img width="431" height="237" alt="Screenshot 2025-10-17 221933" src="https://github.com/user-attachments/assets/ac72931c-9b7f-4642-ad83-da515c28255b" />
+
 
 
 
